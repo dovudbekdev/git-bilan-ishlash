@@ -36,3 +36,21 @@ git branch -M <branch-name>
 ```
 git push -u origin <branch-name>
 ```
+
+### Branch yaratish
+
+```
+git branch <branch-name>
+```
+
+### Branch ga o'tish
+
+```
+git checkout <branch-name>
+```
+
+### Branch yaratib o'sha branch ga o'tish
+
+```
+git checkout -b <branch-name>
+```
