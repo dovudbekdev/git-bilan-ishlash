@@ -36,6 +36,7 @@ git branch -M <branch-name>
 ```
 git push -u origin <branch-name>
 ```
+<!-- salom -->
 
 ### Branch yaratish
 
