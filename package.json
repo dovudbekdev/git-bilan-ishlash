@@ -1,0 +1,23 @@
+{
+  "name": "git-bilan-ishlash",
+  "version": "1.0.0",
+  "description": "### Repasitory yaratish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dovudbekdev/git-bilan-ishlash.git"
+  },
+  "keywords": [],
+  "author": "Muhammad Yusuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dovudbekdev/git-bilan-ishlash/issues"
+  },
+  "homepage": "https://github.com/dovudbekdev/git-bilan-ishlash#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
